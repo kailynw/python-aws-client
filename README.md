@@ -1,2 +1,2 @@
 # python-aws-client
-Interface w/ AWS resources
+Interface w/ AWS resources and services
